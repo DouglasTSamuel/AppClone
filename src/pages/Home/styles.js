@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
     color:'#fcfcfc',
     marginLeft:10,
     fontWeight:'bold',
+    marginRight:10,
     textAlign:'center',
   },
 });

@@ -1,11 +1,12 @@
-import React from 'react'
-import { View, Text } from 'react-native';
+import * as React from 'react';
+import { Text, View } from 'react-native';
 import { TextInput, TouchableHighlight } from 'react-native-gesture-handler';
 import styles from './styles.js';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 const Home = () => {
   return (
+    
     <View style={styles.containerGeral}>
       <View>
         <View style={styles.topHome}>
