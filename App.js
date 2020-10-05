@@ -1,4 +1,4 @@
-Corrimport * as React from 'react';
+import * as React from 'react';
 import Login from './src/pages//Login';
 import Home from './src/pages//Home';
 import Ionicons from 'react-native-vector-icons/Ionicons';
